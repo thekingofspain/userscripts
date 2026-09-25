@@ -6,7 +6,7 @@
 // @author       thekingofspain
 // @match        https://docs.google.com/*
 // @match        https://sheets.google.com/*
-// @match        https://slides.google.com/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=docs.google.com
 // @grant        none
 // @run-at       document-end
 // @homepageURL  https://github.com/thekingofspain/userscripts
