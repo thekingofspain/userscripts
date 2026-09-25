@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Qwen Chat - Unset Max-Width
 // @namespace    https://github.com/thekingofspain/userscripts
-// @version      2026-09-25.1
+// @version      2026-09-25.2
 // @description  Removes the max-width restriction on chat messages in Qwen.
 // @author       thekingofspain
 // @match        https://chat.qwen.ai/*
