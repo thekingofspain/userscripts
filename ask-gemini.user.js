@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       thekingofspain
 // @match        https://gemini.google.com/glic*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=gemini.google.com
 // @grant        none
 // @homepageURL  https://github.com/thekingofspain/userscripts
 // @supportURL   https://github.com/thekingofspain/userscripts/issues

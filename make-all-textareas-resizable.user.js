@@ -5,7 +5,6 @@
 // @description  Forces all textarea elements on any website to be freely resizable.
 // @author       thekingofspain
 // @match        *://*/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=datasette.io
 // @grant        GM_addStyle
 // @run-at       document-start
 // @homepageURL  https://github.com/thekingofspain/userscripts
