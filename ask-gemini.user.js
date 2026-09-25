@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ask Gemini
 // @namespace    https://github.com/thekingofspain/userscripts
-// @version      2026-09-23
+// @version      2026-09-25.1
 // @description  try to take over the world!
 // @author       thekingofspain
 // @match        https://gemini.google.com/glic*

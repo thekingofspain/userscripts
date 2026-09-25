@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Make All Textareas Resizable
 // @namespace    https://github.com/thekingofspain/userscripts
-// @version      2026-09-16
+// @version      2026-09-25.1
 // @description  Forces all textarea elements on any website to be freely resizable.
 // @author       thekingofspain
 // @match        *://*/*

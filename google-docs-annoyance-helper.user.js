@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Docs Annoyance Helper
 // @namespace    https://github.com/thekingofspain/userscripts
-// @version      1.1.1
+// @version      2026-09-25.1
 // @description  Automates "Cancel" on Google Docs paste nags and removes account modals.
 // @author       thekingofspain
 // @match        https://docs.google.com/*
